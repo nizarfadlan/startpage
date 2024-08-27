@@ -11,7 +11,7 @@ const default_config = {
     iconColor: "#ed8796",
   },
   disabled: [],
-  fastlink: "https://linktr.ee/matt_ftw",
+  fastlink: "https://nizarfadlan.dev",
   openLastVisitedTab: false,
   tabs: [
     {
@@ -22,9 +22,9 @@ const default_config = {
           name: "media/rrss",
           links: [
             {
-              name: "mastodon",
-              url: "https://mastodon.social",
-              icon: "brand-mastodon",
+              name: "kampus merdeka",
+              url: "https://kampusmerdeka.kemdikbud.go.id/",
+              icon: "school",
               icon_color: "#a6da95",
             },
             {
